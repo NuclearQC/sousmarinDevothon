@@ -304,6 +304,7 @@
     <Compile Include="Assets\GracesGames\SimpleFileBrowser\Scripts\UI\PortraitUserInterface.cs" />
     <Compile Include="Assets\GracesGames\SimpleFileBrowser\Scripts\UI\UserInterface.cs" />
     <Compile Include="Assets\salut.cs" />
+    <Compile Include="Assets\Scripts\Explosion_Destroy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GracesGames\2DTileMapLevelEditor\ReadMe.txt" />
