@@ -633,9 +633,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 91c1fb96-c58d-47ac-bd3d-b4326c9816cc
+  cloudProjectId: 2b703929-b1b2-42d8-b090-093848234a7a
   projectName: SousMarin
-  organizationId: nuclearqc
+  organizationId: dr_z_power
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
